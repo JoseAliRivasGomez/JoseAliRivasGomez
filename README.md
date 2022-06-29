@@ -1,6 +1,6 @@
 ### Hi there, I'm Jose Rivas 👋
 
-👨‍💻 I am Web Developer, Geek, and Tech Lover 🤖
+👨‍💻 I am a Web Developer, Geek, and Tech Lover 🤖
 
 💻 Currently a Software Engineering Student at UTN 🇨🇷
 
